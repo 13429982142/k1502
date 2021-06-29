@@ -6,6 +6,7 @@ public class LinkManController {
     public Result findAll(){
        System.out.println("git");
 System.out.println("我是你爹");
+System.out.println("麻了");
     }
 
  
